@@ -6,13 +6,13 @@ Real-time autonomous face tracking using computer vision and drone control.
 
 ## Hardware
 
-![Tello Drone](screenshots/tello.drone.jpeg)
+![Tello Drone](screenshots/Tello.drone.jpeg)
 
 ---
 
 ## Demo (Face Tracking)
 
-![Face Tracking Demo](screenshots/demo.jpeg)
+![Face Tracking Demo](screenshots/Demo.jpeg)
 
 ---
 
